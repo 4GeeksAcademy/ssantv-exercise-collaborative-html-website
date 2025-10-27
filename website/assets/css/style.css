@@ -1,3 +1,30 @@
 body{
     background-image: url("https://images.unsplash.com/photo-1475274047050-1d0c0975c63e?ixlib=rb-4.1.0&ixid=M3wxM[…]ZG8lMjBkZWwlMjBlc3BhY2lvfGVufDB8fDB8fHww&fm=jpg&q=60&w=3000");
 }
+
+.neonText1 {
+  color: #fff;
+  -webkit-text-stroke: 1px #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #ff0000,
+      0 0 42px rgb(255, 0, 0),
+      0 0 82px rgb(255, 0, 0),
+      0 0 92px rgb(255, 0, 0);
+
+}
+
+.neonText2 {
+  color: #fff;
+  -webkit-text-stroke: 1px #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #008cff,
+      0 0 42px #008cff,
+      0 0 82px #008cff,
+      0 0 92px #008cff,
+      0 0 102px #008cff,
+      0 0 151px #008cff;
+}
